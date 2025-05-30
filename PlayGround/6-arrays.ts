@@ -1,9 +1,11 @@
 // let nums: number[] = [];
+
 // or
 let nums: Array<number> = [];
 nums.push(10);
 
 // let names: string[] = [];
+
 // or
 let names: Array<string> = [];
 names.push("Pramod");
