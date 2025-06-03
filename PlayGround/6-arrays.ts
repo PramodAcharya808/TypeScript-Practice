@@ -30,6 +30,7 @@ let userData: Array<User> = [
     creditCardDetails: 1234567890,
   },
 ];
+
 // multi dimentional array
 
 let pixels: number[][] = [
